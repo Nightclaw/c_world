@@ -57,8 +57,9 @@ void game()
 					{
 						printf("\n Промах\n");
 					}
+				show_result(all, cht);
 			}
-		//	show_result(all, cht);
+	//	show_result(all, cht);
 		//printf("%s %d", "\n\n Вы выбрали выход. \n Ваш результат:\n Всего попыток:", (double)all);
 		//printf("%s %d", "\n Всего попаданий:", (double)cht);
 	}
